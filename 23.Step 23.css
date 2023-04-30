@@ -1,0 +1,10 @@
+h1, h2, p {
+  text-align: center;
+}
+div {
+    width: 300px;
+    background-color: burlywood;
+  }
+body {
+  /*background-color: burlywood;*/
+}
